@@ -1,7 +1,7 @@
 1.method:
 set two points starting from  j=0 i=list.size()-1 ,
 then  j++ i-- ,
-and then  comare sum(list[i]+list[j]) with budget
+and then  compare sum(list[i]+list[j]) with budget
 
 2.
 >mvn clean
